@@ -1,2 +1,2 @@
-# devops-zero-to-hero
+# Devops-zero-to-hero
 Devops by Master
